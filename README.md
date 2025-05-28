@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋 I'm Ganja Nilesh
 
-<!--
-**nilesh07g/nilesh07g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student at **IIIT Sri City**
 
-Here are some ideas to get you started:
+🔭 Currently working on:
+- 🖥️ **MERN Stack Projects**
+- 🤖 **AI, Machine Learning, Deep Learning**
+- 🧠 **Improving Problem-Solving Skills through DSA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about:
+- 🚀 Full Stack Development
+- 🧩 Solving real-world problems with code
+
+
+🌱 Constantly learning and building new things, and regularly practicing **Data Structures & Algorithms** to strengthen my problem-solving mindset.
+
+📫 Let's connect:
+- 📧 Email: [nilesh30062004@gmail.com](mailto:nilesh30062004@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ganja-nilesh-020401282](http://www.linkedin.com/in/ganja-nilesh-020401282)
+
+
+
+
+
+Thanks for visiting my profile! Feel free to connect or reach out if you're working on something exciting or have an opportunity in full stack development! 🌟
