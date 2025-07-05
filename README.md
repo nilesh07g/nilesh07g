@@ -5,10 +5,12 @@
 🔭 Currently working on:
 - 🖥️ **MERN Stack Projects**
 - 🤖 **AI, Machine Learning, Deep Learning**
+- 🤖 **Large Language Models**
 - 🧠 **Improving Problem-Solving Skills through DSA**
 
 💡 Passionate about:
 - 🚀 Full Stack Development
+- 🤖 LLMS
 - 🧩 Solving real-world problems with code
 
 
